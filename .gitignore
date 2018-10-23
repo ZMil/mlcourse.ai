@@ -110,5 +110,7 @@ venv.bak/
 dmypy.json
 
 # large data files
-data/athlete_events.csv
+data/*
 
+# solutions
+*_solution.ipynb
